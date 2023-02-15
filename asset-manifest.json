@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rgb-guessr/static/css/main.b5097df0.css",
+    "main.js": "/rgb-guessr/static/js/main.478108a3.js",
+    "static/media/sun.png": "/rgb-guessr/static/media/sun.a2cceb50b50e0dc3b2bd.png",
+    "index.html": "/rgb-guessr/index.html",
+    "main.b5097df0.css.map": "/rgb-guessr/static/css/main.b5097df0.css.map",
+    "main.478108a3.js.map": "/rgb-guessr/static/js/main.478108a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5097df0.css",
+    "static/js/main.478108a3.js"
+  ]
+}
