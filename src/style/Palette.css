@@ -1,0 +1,16 @@
+
+.paletteElement
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    transition: transform .5s;
+}
+
+.paletteElement:hover{
+    transform: scale(1.05);
+    opacity: 0.9;
+}
