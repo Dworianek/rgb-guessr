@@ -1,5 +1,9 @@
 # RGB Guesser
 
+## Link do projektu
+
+https://dworianek.github.io/rgb-guessr/
+
 ## Opis
 
 Repozytorium RGB Guesser zawiera interaktywną aplikację umożliwiającą użytkownikowi zgadywanie kodów kolorów RGB. Aplikacja losuje kod RGB, a użytkownik musi odnaleźć kafelek o odpowiednim kolorze spośród wylosowanych kafelków. Użytkownik ma również możliwość dostosowania liczby wylosowanych kafelków oraz przełączania się między trybem jasnym a ciemnym.
